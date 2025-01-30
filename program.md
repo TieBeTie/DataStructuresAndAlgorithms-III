@@ -1,13 +1,16 @@
 ## Course program
 
-#### Unit 1: Dynamic Programming
-1. Popular simple tasks.
-2. Knapsack Problem, Dynamic Programming on matrices.
-3. Introduction to Graphs, DFS.
-4. Dynamic programming with Bitmasks, with Profile.
+#### Unit 1: Games
+1. Combinatorial games, Nim, Retrospective analisys
+2. Minimax, Alpha-Beta prunning, Sprague–Grundy Theorem
 
-#### Unit 2: Graphs
-1. Topological sort, Kosaraju's algorithm.
-2. Euler Trail, Bridges, Cutpoints.
-3. 0-k BFS, Dijkstra's algorithm, Bellman-Ford algorithm.
-4. Floyd-Warshall algorithm, A*.
+#### Unit 2: Strings
+1. Prefix-Function, Z-function
+2. Aho-Corasik
+3. Suffix Tree, Suffix Array.
+4. Ukkonnen's algorithm.
+
+### Unit 3: Computational Geometry
+1. Triangulation 2D.
+2. Convex Hulls 2D.
+3. Convex Hulls 3D.
